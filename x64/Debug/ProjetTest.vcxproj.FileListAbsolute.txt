@@ -1,2 +1,0 @@
-C:\Users\Charles Del\Desktop\Poly\Session II\INF1015 - PROGRAM. ORIENTEE OBJ. AVANCEE\PROJET\x64\Debug\ProjetTest.exe
-C:\Users\Charles Del\Desktop\Poly\Session II\LOG1410 - ANALYSE ET CONC. DES LOGICIELS\TPs\TP5\Implementation c++\x64\Debug\ProjetTest.exe
